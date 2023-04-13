@@ -37,10 +37,10 @@ body {
     background: #1d3557;
 }
 .play-board .food {
+    border-radius: 50%;
     background: #e63946;
 } 
 .play-board .head {
-    border-radius: 50%;
     background-color: #79addc;
 }
 .controls {
